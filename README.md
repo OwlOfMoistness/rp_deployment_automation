@@ -1,5 +1,6 @@
 # rp_deployment_automation
 
+<pre>
 <code>Usage: bash create-pools.sh [OPTIONS]
 Automate pool creation with specified settings.
 Options:
@@ -9,3 +10,4 @@ Options:
   --salt HEX      Set the initial salt value for prefix matching (without 0x, default: empty).
   --help          Display this help message and exit.  
 </code>
+</pre>
